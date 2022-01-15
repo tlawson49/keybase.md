@@ -1,9 +1,11 @@
-### Keybase proof
+### Keybase Proof
 
 I hereby claim:
 
-  * I am tlawson49 on github.
+  * I am tlawson49 on GitHub.
+  
   * I am tlaw09 (https://keybase.io/tlaw09) on keybase.
+  
   * I have a public key whose fingerprint is FF3D 6FDD 4801 31E7 EB31  4AE9 BBAC 7C37 4979 1869
 
 To claim this, I am signing this object:
@@ -38,7 +40,8 @@ To claim this, I am signing this object:
 with the key [FF3D 6FDD 4801 31E7 EB31  4AE9 BBAC 7C37 4979 1869](https://keybase.io/tlaw09), yielding the signature:
 
 ```
------BEGIN PGP MESSAGE-----
+----- BEGIN PGP MESSAGE -----
+
 Version: Keybase OpenPGP v2.1.13
 Comment: https://keybase.io/crypto
 
@@ -59,17 +62,17 @@ ilT14NWKV92ZPSfKz+Q9ibzou/LwdHPp0M5ti0qqTrUV3Nh3OPli74NbbdNmSe+y
 8cJlX2oPJllvzfXqxtaiCxNZ+d1Br6XrW9fqKxPpdMLoSjTtePozMXgHspOjHaXV
 X+nVnP7G36uXQag=
 =B/Eh
------END PGP MESSAGE-----
+
+----- END PGP MESSAGE -----
 
 ```
-
 And finally, I am proving ownership of the github account by posting this as a gist.
 
-### My publicly-auditable identity:
+### My Publicly-Auditable Identity:
 
 https://keybase.io/tlaw09
 
-### From the command line:
+### From the Command Line:
 
 Consider the [keybase command line program](https://keybase.io/download).
 
